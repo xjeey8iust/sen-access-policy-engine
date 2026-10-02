@@ -1,4 +1,4 @@
-module github.com/luwa07832/feature-flag-service
+module github.com/xjeey8iust/sen-access-policy-engine
 
 go 1.26.0
 
